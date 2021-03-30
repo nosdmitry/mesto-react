@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/mesto-react/static/css/main.29a035fb.chunk.css",
+    "main.js": "/mesto-react/static/js/main.a540b5b6.chunk.js",
+    "main.js.map": "/mesto-react/static/js/main.a540b5b6.chunk.js.map",
+    "runtime-main.js": "/mesto-react/static/js/runtime-main.9e522506.js",
+    "runtime-main.js.map": "/mesto-react/static/js/runtime-main.9e522506.js.map",
+    "static/js/2.fbb987b4.chunk.js": "/mesto-react/static/js/2.fbb987b4.chunk.js",
+    "static/js/2.fbb987b4.chunk.js.map": "/mesto-react/static/js/2.fbb987b4.chunk.js.map",
+    "static/js/3.df20f555.chunk.js": "/mesto-react/static/js/3.df20f555.chunk.js",
+    "static/js/3.df20f555.chunk.js.map": "/mesto-react/static/js/3.df20f555.chunk.js.map",
+    "index.html": "/mesto-react/index.html",
+    "static/css/main.29a035fb.chunk.css.map": "/mesto-react/static/css/main.29a035fb.chunk.css.map",
+    "static/js/2.fbb987b4.chunk.js.LICENSE.txt": "/mesto-react/static/js/2.fbb987b4.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/mesto-react/static/media/popup_exit-button.a004a2d5.svg",
+    "static/media/logo.03b78ada.svg": "/mesto-react/static/media/logo.03b78ada.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e522506.js",
+    "static/js/2.fbb987b4.chunk.js",
+    "static/css/main.29a035fb.chunk.css",
+    "static/js/main.a540b5b6.chunk.js"
+  ]
+}
